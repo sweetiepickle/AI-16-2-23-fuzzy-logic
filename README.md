@@ -1,2 +1,2 @@
 # fuzzy-logic
-logic mờ
+# logic mờ
